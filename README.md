@@ -32,8 +32,8 @@ Base URL: [https://ass2-one.vercel.app/](https://ass2-one.vercel.app/)
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/Enamul-Haque-Shojib/movie-series-rating-client.git
-   cd movie-series-rating-client
+   git clone https://github.com/Enamul-Haque-Shojib/vehicle_rental_system.git
+   cd vehicle_rental_system
 2. Install dependencies:
     ```bash
     npm install

@@ -10,11 +10,11 @@ Base URL: [https://ass2-one.vercel.app/](https://ass2-one.vercel.app/)
 - There are two roles, admin and customer
 - admin can add, update, delete vehicle, vehicle will be delete when there are no booking active on that vehicle
 - admin can update and delete customer, customer can delete if there are no booking active on that customer
-- admin and customer both can booking any vehicle
-- admin can returned the vehicle by updating booking
-- customer can cancelled the vehicle by updating booking
-- admin and customer can their access by token
-- without token will be unauthorized 
+- admin and customer both can booking any vehicle.
+- admin can returned the vehicle by updating booking.
+- customer can cancelled the vehicle by updating booking.
+- admin and customer can their access by token.
+- without token will be unauthorized. 
 
 
 ### 🛠 Tech Stack
